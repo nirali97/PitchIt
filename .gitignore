@@ -30,3 +30,4 @@ frontend/dist/
 # System
 .DS_Store
 EOF*.tsbuildinfo
+*.tsbuildinfo
